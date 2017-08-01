@@ -1,0 +1,3 @@
+files:
+  - source: '*.*'
+    translation: /fr-FR/%locale%%file_name%%two_letters_code%%file_extension%
