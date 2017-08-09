@@ -2,7 +2,7 @@ fr-FR:
   activaterecord:
     attributes:
       backer_reward:
-        estimated_delivery_on: Date de livraison estimée d’une récompense
+        estimated_delivery_on: A reward's estimated delivery date
         limit: "Limite de récompense\n"
         minimum: "Montant de l’engagement :"
         reward: Description de récompense
