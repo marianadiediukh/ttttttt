@@ -2,17 +2,17 @@ de-DE:
   activaterecord:
     attributes:
       backer_reward:
-        estimated_delivery_on: A reward's estimated delivery date
-        limit: A reward's limit
-        minimum: "Pledge amount:"
-        reward: A reward's description
-        shipping_preference: Shipping preference
+        estimated_delivery_on: Eine Belohnung voraussichtlichen Lieferdatum
+        limit: Eine Belohnung Grenze
+        minimum: "Pfand Betrag:"
+        reward: Eine Belohnung Beschreibung
+        shipping_preference: Versand-Präferenz
       blog:
-        comments: Allow Comments
-        created_at: Created
-        mentions: Allow Mentions
-        name: Title
-        published_at: Published
+        comments: Kommentare zulassen
+        created_at: Erstellt
+        mentions: Nennungen zu ermöglichen
+        name: Titel
+        published_at: Veröffentlicht
         slug: Permalink
-        template: Template
+        template: Vorlage
         updated_at: rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
