@@ -1,6 +1,9 @@
-#X-Generator: crowdin.com
-identifier.1=Chaîne pour traduction #2
-identifier.2=Chaîne pour traduction #2
-identifier.3=Chaîne pour traduction #2
-identifier.4=Chaîne pour traduction 5
-identifier.5=Chaîne pour traduction 5
+# You can place some context here
+msgid "String for translation #1"
+msgstr "Chaîne pour traduction #2"
+
+msgid "String for translation #2"
+msgstr "Chaîne de traduction 1"
+
+msgid "String for translation #3"
+msgstr "Chaîne pour traduction #2"
