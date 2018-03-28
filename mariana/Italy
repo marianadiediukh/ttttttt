@@ -1,9 +1,18 @@
-# You can place some context here
-msgid "String for translation #1"
-msgstr "Zeichenfolge für die Übersetzung #1"
-
-msgid "String for translation #2"
-msgstr ""
-
-msgid "String for translation #3"
-msgstr ""
+fr-FR:
+  activaterecord:
+    attributes:
+      backer_reward:
+        estimated_delivery_on: Date de livraison estimée d’une récompense
+        limit: "Limite de récompense\n"
+        minimum: "Montant de l’engagement :"
+        reward: Description de récompense
+        shipping_preference: Mode de transport
+      blog:
+        comments: Autoriser les commentaires
+        created_at: Créé
+        mentions: Permettre aux Mentions
+        name: Titre
+        published_at: Publié
+        slug: Lien permanent
+        template: Modèle
+        updated_at: Mise à jour
