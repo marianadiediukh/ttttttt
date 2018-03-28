@@ -2,7 +2,9 @@ files:
   - source: /fr-FR
     ignore:
       - ach-UGExampleachpo
-    translation: /mariana/%two_letters_code%%original_file_name%
+    translation: /mariana/%two_letters_code%
     languages_mapping:
       two_letters_code:
         fr: France
+        es-ES: Spain
+        it: Italy
