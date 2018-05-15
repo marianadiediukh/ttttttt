@@ -1,6 +1,18 @@
-#X-Generator: crowdin.com
-identifier.1=Chaîne pour traduction #2
-identifier.2=Chaîne pour traduction #2
-identifier.3=Chaîne pour traduction #2
-identifier.4=Chaîne pour traduction 5
-identifier.5=Chaîne pour traduction 5
+fr-FR:
+  activaterecord:
+    attributes:
+      backer_reward:
+        estimated_delivery_on: Date de livraison estimée d’une récompense
+        limit: "Limite de récompense\n"
+        minimum: "Montant de l’engagement :"
+        reward: Description de récompense
+        shipping_preference: Mode de transport
+      blog:
+        comments: Autoriser les commentaires
+        created_at: Créé
+        mentions: Permettre aux Mentions
+        name: Titre
+        published_at: Publié
+        slug: Lien permanent
+        template: Modèle
+        updated_at: Mise à jour
