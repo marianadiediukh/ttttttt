@@ -1,18 +1,1 @@
-ach-UG:
-  activaterecord:
-    attributes:
-      backer_reward:
-        estimated_delivery_on: 'crwdns36521:0crwdne36521:0'
-        limit: 'crwdns36522:0crwdne36522:0'
-        minimum: "crwdns36523:0crwdne36523:0"
-        reward: 'crwdns36524:0crwdne36524:0'
-        shipping_preference: 'crwdns36525:0crwdne36525:0'
-      blog:
-        comments: 'crwdns36526:0crwdne36526:0'
-        created_at: 'crwdns36527:0crwdne36527:0'
-        mentions: 'crwdns36528:0crwdne36528:0'
-        name: 'crwdns36529:0crwdne36529:0'
-        published_at: 'crwdns36530:0crwdne36530:0'
-        slug: 'crwdns36531:0crwdne36531:0'
-        template: 'crwdns36532:0crwdne36532:0'
-        updated_at: 'crwdns36533:0crwdne36533:0'
+# crwdns36534:0crwdne36534:0
